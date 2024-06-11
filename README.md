@@ -25,3 +25,7 @@ Public Repo, 한글
 ### 수평선 넣기
 
 ---
+
+### 이미지 삽입
+![강아지](https://th.bing.com/th/id/OIP.ByFBM2P-gnLPLHL6H2QqUwAAAA?rs=1&pid=ImgDetMain)
+
